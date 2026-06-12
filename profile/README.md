@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Welcome+to+WIRAkarsa+%F0%9F%9A%80;Building+the+Future+of+Tech+Careers" alt="Typing SVG" />
+<img src="./wirapath-logo.png" alt="Wirapath Logo" width="400" />
 
 <br/>
 
